@@ -12,4 +12,6 @@ common:
     url: https://github.com/wexinc
   - type: LinkedIn
     url: https://www.linkedin.com/company/wexinc
+  - url: https://www.wexinc.com/feed/
+    type: Blog
 apis: []
