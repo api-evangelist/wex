@@ -19,6 +19,12 @@ created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
 common:
+  - type: PrivacyPolicy
+    url: https://www.wexinc.com/privacy-notice/
+  - type: TermsOfService
+    url: https://www.wexinc.com/terms-of-use/
+  - type: Login
+    url: https://customer.wexinc.com/login/
   - type: GitHubOrganization
     url: https://github.com/wexinc
   - type: LinkedIn
