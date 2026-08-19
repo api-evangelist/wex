@@ -28,7 +28,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/wex.png
 description: 'Fortune 1000 company WEX. Public API documentation has not yet been catalogued in the API Evangelist network.'
 created: '2026-05-05'
 modified: '2026-05-05'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 common:
   - type: PrivacyPolicy
     url: https://www.wexinc.com/privacy-notice/
